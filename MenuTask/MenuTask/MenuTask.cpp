@@ -76,6 +76,8 @@ void GuessTheNumber()
     while (y != x)
     {
 
+
+
         if (y < x)
         {
             cout << "твоё число меньше заданного\n";
