@@ -1,0 +1,8 @@
+.vs/
+*.p7s
+*.nupkg
+obj/
+*.exe
+*.suo
+.x64/
+Debug/
